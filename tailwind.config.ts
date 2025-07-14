@@ -19,6 +19,11 @@ export default {
 		},
 		extend: {
 			colors: {
+				'fitness-orange': '#FF6B35',
+				'fitness-green': '#4CAF50',
+				'fitness-blue': '#2196F3',
+				'fitness-dark': '#212121',
+				'fitness-gray': '#757575',
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
